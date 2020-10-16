@@ -1,1 +1,1 @@
-#colab-notebooks to go through DeepLearning APIs
+#colab-notebooks-for-DeepLearning-APIs
